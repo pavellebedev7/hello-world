@@ -1,3 +1,5 @@
+set number
+set relativenumber
 highlight ColorColumn ctermbg=gray
 set colorcolumn=80
 set tabstop=4
