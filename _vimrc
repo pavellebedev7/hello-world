@@ -21,3 +21,4 @@ below term
 set belloff=all
 set ruler
 set ignorecase
+set hlsearch
