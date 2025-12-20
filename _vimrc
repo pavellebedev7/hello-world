@@ -22,3 +22,7 @@ set belloff=all
 set ruler
 set ignorecase
 set hlsearch
+set autoindent
+map q dwelp
+set showmode
+set incsearch
