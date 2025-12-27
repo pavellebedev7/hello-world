@@ -6,6 +6,7 @@ set tabstop=4
 set shiftwidth=4
 set wrap
 set encoding=cp1251
+highlight CursorLine ctermbg=gray
 set cursorline
 set showmatch
 
