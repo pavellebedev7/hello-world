@@ -25,3 +25,8 @@ set hlsearch
 set autoindent
 set showmode
 set incsearch
+
+let currentHour = strftime("%H")
+
+tabnew
+vert new
